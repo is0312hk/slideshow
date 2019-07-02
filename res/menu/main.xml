@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="@string/hotel" app:showAsAction="always" android:id="@+id/hotel"/>
+    <item android:title="@string/airplane" app:showAsAction="always" android:id="@+id/airplane"/>
+    <item android:title="@string/top_text" android:id="@+id/top" android:icon="@drawable/ic_home_black_24dp"
+          app:showAsAction="ifRoom"/>
+</menu>

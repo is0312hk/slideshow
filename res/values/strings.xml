@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Slideshow</string>
+    <string name="prevbutton"><![CDATA[<]]></string>
+    <string name="nextbutton"><![CDATA[>]]></string>
+    <string name="slideshow">SlideShow</string>
+    <string name="textview">The United States</string>
+    <string name="top_text">TOP PAGE</string>
+    <string name="hotel">Hotel</string>
+    <string name="airplane">airplane</string>
+</resources>
